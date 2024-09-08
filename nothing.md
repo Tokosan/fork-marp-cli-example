@@ -1,25 +1,18 @@
 ---
 marp: true
-lang: en-US
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
+lang: es-ES
+title: OSEC
+description: Open Source Estudiantes de Chile
 theme: uncover
 transition: fade
 paginate: true
 _paginate: false
+footer: Material OSEC - CC BY-NC-SA
 ---
 
-![bg opacity](./assets/gradient.jpg)
+# OSEC
 
-# <!--fit--> Marp CLI example
-
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
-
-<style scoped>a { color: #36c; }</style>
-
-<!-- This is presenter note. You can write down notes through HTML comment. -->
+Open Source Estudiantes de Chile
 
 ---
 
